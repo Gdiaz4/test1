@@ -1,0 +1,4 @@
+Hello! 
+My name is Gavin, and I am trying to become more comfortable with Github.
+This is an attempt at that.
+Take care!
